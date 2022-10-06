@@ -1,0 +1,40 @@
+//Buttons
+.buttons {
+    padding: 0;
+    margin: 0;
+    justify-content: center;
+    display: flex;
+}
+
+.button-book, .button-price, .submit {
+    justify-content: center;
+    align-items: center;
+    padding: 1rem 2rem;
+    border-radius: 2rem;
+    border: 1px solid transparent;
+    background-color: $color-accent;
+    font-size: 0.8rem;
+    font-size: 20px;
+    font-family: 'Source Serif Pro';
+    width: 208px;
+    height: 68px;
+}
+
+.button-book {
+    margin-top: 50px;
+
+    .button-book a {
+        color: $color-light;
+    }
+}
+
+.button-price {
+    margin-left: 47px;
+    margin-top: 50px;
+}
+
+.submit {
+    height: 40px;
+    padding: 0;
+    margin-bottom: 100px;
+}

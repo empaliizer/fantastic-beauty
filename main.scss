@@ -1,0 +1,31 @@
+// Utiliteis 
+
+//Variables, mixinis etc
+@import 'scss/Utilities/mixins';
+@import 'scss/Utilities/variables';
+@import 'scss/Utilities/helper';
+
+//Base
+
+//Reset, Typography, Forms etc
+@import 'scss/base/base';
+@import 'scss/base/typgraphic';
+@import 'scss/base/forms';
+
+//Components
+
+//Buttons, sliders etc
+@import 'scss/components/buttons';
+
+//Layout
+
+//Main Layout, Sections etc
+@import 'scss/layout/layout';
+@import 'scss/layout/header';
+@import 'scss/layout/navigation';
+@import 'scss/layout/footer';
+
+//Pages
+
+//Suboages, About Me, Information, Services etc
+@import 'scss/pages/pagename';

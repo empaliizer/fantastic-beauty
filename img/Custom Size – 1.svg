@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="550" height="550" viewBox="0 0 550 550">
+  <defs>
+    <clipPath id="clip-Custom_Size_1">
+      <rect width="550" height="550"/>
+    </clipPath>
+  </defs>
+  <g id="Custom_Size_1" data-name="Custom Size – 1" clip-path="url(#clip-Custom_Size_1)">
+    <g id="Logo" transform="translate(205.005 205.005)">
+      <path id="Path_1" data-name="Path 1" d="M154.669,42.652,133.822,63.5l-28.647-.265V92.146l-20.5,20.5,20.5,20.5v29.074h29.877l19.618,20.42,20.42-20.42h29.074l.081-29.155,20.42-20.42-20.5-20.5V63.234l-27.955.265Z" transform="translate(-84.674 -42.652)" fill="#f4dad7" stroke="#f4dad7" stroke-miterlimit="10" stroke-width="1"/>
+      <rect id="Rectangle_5" data-name="Rectangle 5" width="77.88" height="77.88" transform="translate(30.888 31.482)" fill="#f4dad7" stroke="#bf9891" stroke-miterlimit="10" stroke-width="1"/>
+      <rect id="Rectangle_6" data-name="Rectangle 6" width="77.88" height="77.88" transform="translate(69.829 15.092) rotate(45)" fill="#f4dad7" stroke="#bf9891" stroke-miterlimit="10" stroke-width="1"/>
+      <g id="Company_name" data-name="Company name" transform="translate(37.233 59.464)">
+        <text id="FANTASTIC" transform="translate(0 9)" fill="#bf9891" font-size="10" font-family="SourceSerifPro-Regular, Source Serif Pro" letter-spacing="0.125em"><tspan x="0" y="0">FANTASTIC</tspan></text>
+        <text id="BEAUTY" transform="translate(7.284 20.298)" fill="#bf9891" font-size="10" font-family="SourceSerifPro-Regular, Source Serif Pro" letter-spacing="0.125em"><tspan x="0" y="0">BEAUTY</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

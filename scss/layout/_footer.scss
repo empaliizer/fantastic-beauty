@@ -1,0 +1,50 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    &-inner {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .social-media p {
+        color: $color-complement;
+        opacity: 63%;
+    }
+}
+
+.copy {
+    color: $color-complement;
+    opacity: 63%;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 26px;
+}
+
+@media screen and (max-width: 767px) {
+
+    .footer-inner {
+        flex-direction: column;
+    }
+
+    .social-media p {
+        display: none;
+    }
+
+    .social-media img {
+        margin-right: 10px;
+    }
+
+
+    .copy {
+        margin-top: 40px;
+    }
+
+
+   
+
+    
+}
+
+

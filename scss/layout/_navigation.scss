@@ -1,0 +1,47 @@
+.menu, .pricelist-menu {
+    &-list {
+        list-style: none;
+        display: flex;
+        margin: 64px 0 0 370px;
+        font-size: 24px;
+    }
+
+    &-item {
+        line-height: 1.5;
+        font-size: 1.5rem;
+        color: #ffffff;
+        margin-left: 53px;
+        font-weight: 500;
+    }
+
+    &-link {
+        color: #ffffff;
+    }
+}
+
+.pricelist-menu .menu-link {
+    color: #484848;
+}
+
+.footer .menu-list {
+    flex-direction: column;
+    padding-left: 0;
+    margin-left: 0;
+    color: $color-complement;
+    opacity: 63%;
+
+
+    .menu-item {
+        margin-left: 0;
+        line-height: 1.8;
+    }
+}
+
+
+@media screen and (max-width: 900px) {
+    nav {
+        display: none;
+    }
+}
+
+

@@ -1,0 +1,31 @@
+input {
+  font-size: 18px;
+  width: 383px;
+  height: 36px;
+  font-family: 'Source Serif Pro';
+  margin-bottom: 20px;
+  padding-left: 28px;
+}
+
+.form {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding-top: 60px;
+  opacity: 60%;
+}
+
+.form .form-head {
+  font-size: 18px;
+  font-weight: 400;
+  margin: 0;
+  opacity: 60%;
+}
+/*# sourceMappingURL=forms.css.map */
